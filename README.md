@@ -1,1 +1,1 @@
-# Coin-Flip
+# Coin Flip
